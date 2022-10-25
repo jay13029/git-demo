@@ -2,3 +2,11 @@ body {
   margin: 10px;
   padding: 20px;
 }
+
+h1 {
+  color: blueviolet;
+}
+
+p {
+  font-size: 28px;
+}
