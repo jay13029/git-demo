@@ -5,8 +5,9 @@ body {
 
 h1 {
   color: blueviolet;
+  font-size: 28px;
 }
 
 p {
-  font-size: 28px;
+  font-size: 20px;
 }
